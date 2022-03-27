@@ -1,1 +1,1 @@
-"# N Dimensional Path Planning Solver" 
+# N Dimensional Path Planning Solver
